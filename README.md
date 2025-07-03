@@ -1,2 +1,0 @@
-# Page
-An Iranian programmer :)
